@@ -1,0 +1,57 @@
+body{
+	margin-top: 55px;
+}
+
+.navbar-brand {
+	font-size: 20px;
+	color:#111 !important;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#showcase .showcase-left img {
+	width: 90%;
+	margin-top: 50px;
+}
+#showcase .showcase-right h1 {
+	font-size: 60px;
+	margin: 0 0 20px 0;
+}
+
+#showcase .showcase-right {
+	margin: 90px 0;
+}
+
+#testimonial {
+	background: #f1f1f1;
+	padding: 30px 0;
+	text-align: center;
+}
+#testimonial p {
+	font-family: 'Josefin Sans';
+	font-size: 25px;
+	color: #000;
+}
+#testimonial p.saidBy {
+	font-size: 20px;
+	color: #666;
+}
+#info1 .info-left img {
+	width: 100%;
+	height: 400px;
+	margin-top: 50px;
+}
+#info1 .info-right {
+	margin: 100px 0 50px 0; 
+}
+#info2 .row {
+	margin: 50px 0;
+}
+#contact {
+	background: #111; /* add a background image*/
+	padding: 40px;
+	color:#fff;
+}
+footer {
+	margin: 30px 0;
+	font-size: 20px;
+}
